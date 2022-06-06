@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leandrosouza2004
+- 👋 Hi, I’m @LeandroSouza2004
 - 👀 I’m interested in HTML,CSS,PHP,SQL and Database
 - 🌱 I’m currently learning HTML,CSS,PHP,SQL and Database
 - 💞️ I’m looking to collaborate on ...
